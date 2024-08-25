@@ -1,5 +1,6 @@
 # Revenue-Insights-in-Hospitality-Domain
 
+
 The project name is Revenue-Insights-in-Hospitality-Domain
 which provide the Insights of Atliq Grand five star hotel chain.During analyzing the datset I use various tools and technologies like data analysis software jupyter notebook, excel and Microsoft Power-Bi.
 
@@ -33,4 +34,13 @@ In this section I Describe the working of the project.
 * in nest step create modelling in model tab using concept of topology.
 * then as per the condition and problem statement I have to find some metrices. like Revpar,Occupancy,ADR,Realization and many more concept.
 * I add some calculated columns in the data sets in the powerbi which are--- .
+
+
+
+
+
+
+
+# Author- Ajinkya Chavan
+## Github - Ajinkya-19
  
